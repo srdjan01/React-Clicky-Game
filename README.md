@@ -1,6 +1,6 @@
 # React-Clicky-Game
 
-* For a demo of this application see: [https://friend-finder.herokuapp.com/](https://friend-finder.herokuapp.com/)
+* For a demo of this application see: [https://rocky-springs-52714.herokuapp.com/](https://rocky-springs-52714.herokuapp.com/)
 
 
 ## Instructions
