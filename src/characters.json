@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Donald",
+    "image": "./images/donald.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Daisy",
+    "image": "./images/daisy.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Goofy",
+    "image": "./images/goofy.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Mikey",
+    "image": "./images/mikey.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Minnie",
+    "image": "./images/minnie.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Pluto",
+    "image": "./images/pluto.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Tweety",
+    "image": "./images/tweety.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Tom",
+    "image": "./images/tom.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Jerri",
+    "image": "./images/jerri.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Moby",
+    "image": "./images/moby.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Elsa",
+    "image": "./images/elsa.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Pink Panther",
+    "image": "./images/pinkp.png",
+    "clicked": false
+  }
+]
